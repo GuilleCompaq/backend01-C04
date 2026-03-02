@@ -1,0 +1,23 @@
+{{!< main}}
+
+{{#if msg}}
+    <p class="alert">{{msg}}</p>
+    {{/if}}
+<section class="msn-window">
+    <h2 class="msn-header text-center">Chat</h2>
+    <form id="chatForm" class="d-flex bd-highlight">
+        <input class="flex-fill p-2 bd-highlight" type="text" id="messageInput" placeholder="Mensaje a enviar..." autocomplete="off" class="">
+        <button class="btn btn-success flex-fill p-2 bd-highlight">---Enviar---</button>
+    </form>
+    <ul id= "messages" class="msn-chat-area"></ul>
+    <div class="d-flex flex-row-reverse">
+        
+        <button id="disconnectBtn" class="btn btn-danger">Desconectar</button>
+    </div>
+</section>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.26.21/dist/sweetalert2.all.min.js"></script>
+<script src="/socket.io/socket.io.js"></script>
+<script src="/static/js/chat.js"></script>
+
+
+

@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "marca": "Fiat",
+    "modelo": "Cronos",
+    "año": 2023,
+    "color": "Blanco",
+    "precio": 18500000,
+    "kilometraje": 12000,
+    "combustible": "Nafta"
+  },
+  {
+    "id": 2,
+    "marca": "Volkswagen",
+    "modelo": "Gol Trend",
+    "año": 2022,
+    "color": "Gris",
+    "precio": 14000000,
+    "kilometraje": 25000,
+    "combustible": "Nafta"
+  },
+  {
+    "id": 3,
+    "marca": "Chevrolet",
+    "modelo": "Onix",
+    "año": 2023,
+    "color": "Rojo",
+    "precio": 17000000,
+    "kilometraje": 8000,
+    "combustible": "Nafta"
+  },
+  {
+    "id": 4,
+    "marca": "Toyota",
+    "modelo": "Etios",
+    "año": 2021,
+    "color": "Negro",
+    "precio": 13500000,
+    "kilometraje": 35000,
+    "combustible": "Nafta"
+  },
+  {
+    "id": 5,
+    "marca": "Renault",
+    "modelo": "Sandero",
+    "año": 2022,
+    "color": "Azul",
+    "precio": 15000000,
+    "kilometraje": 18000,
+    "combustible": "Nafta"
+  },
+  {
+    "id": 6,
+    "marca": "Ford",
+    "modelo": "Ka",
+    "año": 2023,
+    "color": "Blanco",
+    "precio": 16500000,
+    "kilometraje": 5000,
+    "combustible": "Nafta"
+  },
+  {
+    "id": 7,
+    "marca": "Peugeot",
+    "modelo": "208",
+    "año": 2022,
+    "color": "Gris",
+    "precio": 17500000,
+    "kilometraje": 15000,
+    "combustible": "Nafta"
+  },
+  {
+    "id": 8,
+    "marca": "Volkswagen",
+    "modelo": "Polo",
+    "año": 2023,
+    "color": "Rojo",
+    "precio": 19000000,
+    "kilometraje": 7000,
+    "combustible": "Nafta"
+  },
+  {
+    "id": 9,
+    "marca": "Fiat",
+    "modelo": "Argo",
+    "año": 2022,
+    "color": "Plata",
+    "precio": 16000000,
+    "kilometraje": 22000,
+    "combustible": "Nafta"
+  },
+  {
+    "id": 10,
+    "marca": "Chevrolet",
+    "modelo": "Tracker",
+    "año": 2023,
+    "color": "Negro",
+    "precio": 28000000,
+    "kilometraje": 10000,
+    "combustible": "Nafta"
+  },
+  {
+    "id": 11,
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "año": 2022,
+    "color": "Blanco",
+    "precio": 32000000,
+    "kilometraje": 14000,
+    "combustible": "Nafta"
+  },
+  {
+    "id": 12,
+    "marca": "Renault",
+    "modelo": "Duster",
+    "año": 2021,
+    "color": "Verde",
+    "precio": 22000000,
+    "kilometraje": 30000,
+    "combustible": "Nafta"
+  },
+  {
+    "id": 13,
+    "marca": "Volkswagen",
+    "modelo": "Taos",
+    "año": 2023,
+    "color": "Gris",
+    "precio": 35000000,
+    "kilometraje": 6000,
+    "combustible": "Nafta"
+  },
+  {
+    "id": 14,
+    "marca": "Nissan",
+    "modelo": "Versa",
+    "año": 2022,
+    "color": "Azul",
+    "precio": 19500000,
+    "kilometraje": 20000,
+    "combustible": "Nafta"
+  },
+  {
+    "id": 15,
+    "marca": "Fiat",
+    "modelo": "Toro",
+    "año": 2023,
+    "color": "Negro",
+    "precio": 38000000,
+    "kilometraje": 8000,
+    "combustible": "Diésel"
+  },
+  {
+    "id": 16,
+    "marca": "Ford",
+    "modelo": "Ranger",
+    "año": 2022,
+    "color": "Blanco",
+    "precio": 45000000,
+    "kilometraje": 25000,
+    "combustible": "Diésel"
+  },
+  {
+    "id": 17,
+    "marca": "Chevrolet",
+    "modelo": "S10",
+    "año": 2021,
+    "color": "Gris",
+    "precio": 40000000,
+    "kilometraje": 35000,
+    "combustible": "Diésel"
+  },
+  {
+    "id": 18,
+    "marca": "Peugeot",
+    "modelo": "2008",
+    "año": 2023,
+    "color": "Rojo",
+    "precio": 24000000,
+    "kilometraje": 9000,
+    "combustible": "Nafta"
+  },
+  {
+    "id": 19,
+    "marca": "Toyota",
+    "modelo": "Hilux",
+    "año": 2023,
+    "color": "Plata",
+    "precio": 55000000,
+    "kilometraje": 5000,
+    "combustible": "Diésel"
+  },
+  {
+    "id": 20,
+    "marca": "Renault",
+    "modelo": "Kangoo",
+    "año": 2022,
+    "color": "Blanco",
+    "precio": 21000000,
+    "kilometraje": 28000,
+    "combustible": "Nafta"
+  }
+]
